@@ -1,0 +1,1 @@
+[Ubuntu](https://ubuntu.com) is a World class Linux system that I prefer not to use anymore because it's slow and I don't love #snap #snappackages
